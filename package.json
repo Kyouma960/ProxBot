@@ -7,11 +7,14 @@
     "discord.js-selfbot": "^12.0.2",
     "express": "^4.17.2",
     "fs": "^0.0.1-security",
+    "gifsicle": "^6.1.0",
+    "image-size": "^1.0.1",
     "mangadex-full-api": "^5.9.0",
     "nekos-best.js": "^4.1.0",
     "promise-request-retry": "^1.0.2",
     "r2": "^2.0.1",
     "request": "^2.88.2",
+    "sharp": "^0.30.3",
     "superagent": "^7.1.1"
   }
 }
