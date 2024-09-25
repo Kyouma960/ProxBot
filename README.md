@@ -1,39 +1,18 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="20%" alt="PROXBOT-logo">
-</p>
-<p align="center">
-    <h1 align="center">PROXBOT</h1>
-</p>
-<p align="center">
-    <em>Unleash the ultimate Discord experience with ProxBot!</em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/Kyouma960/ProxBot?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Kyouma960/ProxBot?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Kyouma960/ProxBot?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Kyouma960/ProxBot?style=default&color=0080ff" alt="repo-language-count">
-</p>
-<p align="center">
-	<!-- default option, no dependency badges. -->
-</p>
-
-<br>
-
 #####  Table of Contents
 
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ Modules](#-modules)
-- [ Getting Started](#-getting-started)
-    - [ Prerequisites](#-prerequisites)
-    - [ Installation](#-installation)
-    - [ Usage](#-usage)
-    - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
+- [ Overview](#overview)
+- [ Features](#features)
+- [ Repository Structure](#repository-structure)
+- [ Modules](#modules)
+- [ Getting Started](#getting-started)
+    - [ Prerequisites](#prerequisites)
+    - [ Installation](#installation)
+    - [ Usage](#usage)
+    - [ Tests](#tests)
+- [ Project Roadmap](#project-roadmap)
+- [ Contributing](#contributing)
+- [ License](#license)
+- [ Acknowledgments](#acknowledgments)
 
 ---
 
@@ -48,15 +27,10 @@ ProxBot is a Discord bot project designed to enhance user interaction with featu
 |    |   Feature         | Description |
 |----|-------------------|---------------------------------------------------------------|
 | ⚙️  | **Architecture**  | The project has a modular architecture that allows for easy addition of new features. It utilizes Discord.js for interactions with Discord APIs and implements various functionalities like roasts, manga reading, and Google searches. |
-| 🔩 | **Code Quality**  | The codebase demonstrates good quality and style with clear separation of concerns. It follows consistent naming conventions and proper indentation for readability. |
-| 📄 | **Documentation** | The project includes detailed documentation for managing dependencies, setting up the server, handling events, and key functionality descriptions. This aids in understanding and contributing to the project. |
 | 🔌 | **Integrations**  | Key integrations include nekos-best.js, request, discord.js, express, mangadex-full-api, and superagent for various functionalities like image processing, fetching manga data, and server management. |
 | 🧩 | **Modularity**    | The codebase is modular, allowing for easy extensibility and maintenance. Events and commands are loaded dynamically, enhancing scalability without needing to modify existing code. |
-| 🧪 | **Testing**       | The project may benefit from incorporating testing frameworks like Jest for automated testing to ensure robustness and reliability of the codebase. |
-| ⚡️  | **Performance**   | Performance evaluation is subject to testing, but the project's efficient design and use of external APIs suggest good responsiveness and resource management. Improvements in handling increased traffic can be made through optimizations. |
 | 🛡️ | **Security**      | Measures for data protection and access control could be further enhanced by implementing secure coding practices and regular security audits to prevent vulnerabilities. |
-| 📦 | **Dependencies**  | The project's dependencies include libraries for Discord interactions, image processing, manga functionalities, and API calls, managed through package.json and package-lock.json. |
-| 🚀 | **Scalability**   | The project shows promise in scalability with its modular design and dynamic loading of events and commands, enabling easy addition of new features to handle increased traffic and load efficiently. |
+| 📦 | **Dependencies**  | The project's dependencies include libraries for Discord interactions, image processing, manga functionalities, and API calls.|
 
 ---
 
